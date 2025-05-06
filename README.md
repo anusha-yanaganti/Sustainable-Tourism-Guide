@@ -6,7 +6,7 @@ A mobile application that promotes eco-friendly, responsible, and community-driv
 
 ## 📱 Features
 
-- 🗺️ **Eco-friendly Destinations** – Discover sustainable tourist spots and lesser-known eco-trails.  
+- 🗺️ **Eco-friendly Destinations** – Discover sustainable tourist spots and lesser-known eco-trail.  
 - 🍃 **Green Travel Tips** – Get tips on minimizing your carbon footprint while traveling.  
 - 🏨 **Eco-Stay Listings** – Browse accommodations certified for sustainability.  
 - 🤝 **Local Community Support** – Connect with local guides, businesses, and artisans.  
